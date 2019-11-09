@@ -1,0 +1,17 @@
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\bin\Debug\Proyecto_MétodosNum.exe.config
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\bin\Debug\Proyecto_MétodosNum.exe
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\bin\Debug\Proyecto_MétodosNum.pdb
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.csprojAssemblyReference.cache
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.Properties.Resources.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.csproj.GenerateResource.cache
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.csproj.CoreCompileInputs.cache
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.exe
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.pdb
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.RulePardy.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.Bonus.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.MenuPrincipal.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.Interp100.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.Interpolación.Interp200.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.Interpolación.Interp300.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.Interpolación.Interp500.resources
+C:\Users\LAP\Desktop\Proyecto Métodos Numéricos\Proyecto_MétodosNum\obj\Debug\Proyecto_MétodosNum.Interpolación.Interp400.resources
