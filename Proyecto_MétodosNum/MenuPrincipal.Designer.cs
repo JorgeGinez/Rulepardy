@@ -38,25 +38,25 @@
             this.NoL300 = new System.Windows.Forms.Button();
             this.L300 = new System.Windows.Forms.Button();
             this.MinC300 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
+            this.Int300 = new System.Windows.Forms.Button();
             this.MinC500 = new System.Windows.Forms.Button();
             this.L500 = new System.Windows.Forms.Button();
             this.NoL500 = new System.Windows.Forms.Button();
-            this.button24 = new System.Windows.Forms.Button();
+            this.Int500 = new System.Windows.Forms.Button();
             this.Interp500 = new System.Windows.Forms.Button();
-            this.button26 = new System.Windows.Forms.Button();
-            this.button27 = new System.Windows.Forms.Button();
+            this.col1 = new System.Windows.Forms.Button();
+            this.col2 = new System.Windows.Forms.Button();
             this.button28 = new System.Windows.Forms.Button();
             this.button29 = new System.Windows.Forms.Button();
             this.button30 = new System.Windows.Forms.Button();
             this.button31 = new System.Windows.Forms.Button();
             this.button32 = new System.Windows.Forms.Button();
-            this.button33 = new System.Windows.Forms.Button();
-            this.button34 = new System.Windows.Forms.Button();
-            this.button37 = new System.Windows.Forms.Button();
-            this.button38 = new System.Windows.Forms.Button();
-            this.button39 = new System.Windows.Forms.Button();
-            this.button42 = new System.Windows.Forms.Button();
+            this.Edo500 = new System.Windows.Forms.Button();
+            this.Edo300 = new System.Windows.Forms.Button();
+            this.Edo100 = new System.Windows.Forms.Button();
+            this.Edo2_500 = new System.Windows.Forms.Button();
+            this.Edo2_300 = new System.Windows.Forms.Button();
+            this.Edo2_100 = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
@@ -178,18 +178,18 @@
             this.MinC300.UseVisualStyleBackColor = false;
             this.MinC300.Click += new System.EventHandler(this.Button16_Click);
             // 
-            // button17
+            // Int300
             // 
-            this.button17.BackColor = System.Drawing.Color.Khaki;
-            this.button17.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button17.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button17.Location = new System.Drawing.Point(770, 402);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(165, 76);
-            this.button17.TabIndex = 17;
-            this.button17.Text = "300";
-            this.button17.UseVisualStyleBackColor = false;
-            this.button17.Click += new System.EventHandler(this.Button17_Click);
+            this.Int300.BackColor = System.Drawing.Color.Khaki;
+            this.Int300.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Int300.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Int300.Location = new System.Drawing.Point(770, 402);
+            this.Int300.Name = "Int300";
+            this.Int300.Size = new System.Drawing.Size(165, 76);
+            this.Int300.TabIndex = 17;
+            this.Int300.Text = "300";
+            this.Int300.UseVisualStyleBackColor = false;
+            this.Int300.Click += new System.EventHandler(this.Button17_Click);
             // 
             // MinC500
             // 
@@ -230,18 +230,18 @@
             this.NoL500.UseVisualStyleBackColor = false;
             this.NoL500.Click += new System.EventHandler(this.Button23_Click);
             // 
-            // button24
+            // Int500
             // 
-            this.button24.BackColor = System.Drawing.Color.Khaki;
-            this.button24.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button24.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button24.Location = new System.Drawing.Point(770, 531);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(165, 76);
-            this.button24.TabIndex = 22;
-            this.button24.Text = "500";
-            this.button24.UseVisualStyleBackColor = false;
-            this.button24.Click += new System.EventHandler(this.Button24_Click);
+            this.Int500.BackColor = System.Drawing.Color.Khaki;
+            this.Int500.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Int500.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Int500.Location = new System.Drawing.Point(770, 531);
+            this.Int500.Name = "Int500";
+            this.Int500.Size = new System.Drawing.Size(165, 76);
+            this.Int500.TabIndex = 22;
+            this.Int500.Text = "500";
+            this.Int500.UseVisualStyleBackColor = false;
+            this.Int500.Click += new System.EventHandler(this.Button24_Click);
             // 
             // Interp500
             // 
@@ -256,29 +256,29 @@
             this.Interp500.UseVisualStyleBackColor = false;
             this.Interp500.Click += new System.EventHandler(this.Button25_Click);
             // 
-            // button26
+            // col1
             // 
-            this.button26.BackColor = System.Drawing.Color.Transparent;
-            this.button26.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button26.Location = new System.Drawing.Point(26, 154);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(165, 66);
-            this.button26.TabIndex = 26;
-            this.button26.Text = "Interpolación";
-            this.button26.UseVisualStyleBackColor = false;
-            this.button26.Click += new System.EventHandler(this.Button26_Click);
+            this.col1.BackColor = System.Drawing.Color.Transparent;
+            this.col1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.col1.Location = new System.Drawing.Point(26, 154);
+            this.col1.Name = "col1";
+            this.col1.Size = new System.Drawing.Size(165, 66);
+            this.col1.TabIndex = 26;
+            this.col1.Text = "Interpolación";
+            this.col1.UseVisualStyleBackColor = false;
+            this.col1.Click += new System.EventHandler(this.Button26_Click);
             // 
-            // button27
+            // col2
             // 
-            this.button27.BackColor = System.Drawing.Color.Transparent;
-            this.button27.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button27.Location = new System.Drawing.Point(212, 154);
-            this.button27.Name = "button27";
-            this.button27.Size = new System.Drawing.Size(165, 66);
-            this.button27.TabIndex = 27;
-            this.button27.Text = "Ecuaciones No Lineales";
-            this.button27.UseVisualStyleBackColor = false;
-            this.button27.Click += new System.EventHandler(this.Button27_Click);
+            this.col2.BackColor = System.Drawing.Color.Transparent;
+            this.col2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.col2.Location = new System.Drawing.Point(212, 154);
+            this.col2.Name = "col2";
+            this.col2.Size = new System.Drawing.Size(165, 66);
+            this.col2.TabIndex = 27;
+            this.col2.Text = "Ecuaciones No Lineales";
+            this.col2.UseVisualStyleBackColor = false;
+            this.col2.Click += new System.EventHandler(this.Button27_Click);
             // 
             // button28
             // 
@@ -340,83 +340,83 @@
             this.button32.UseVisualStyleBackColor = false;
             this.button32.Click += new System.EventHandler(this.Button32_Click);
             // 
-            // button33
+            // Edo500
             // 
-            this.button33.BackColor = System.Drawing.Color.Khaki;
-            this.button33.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button33.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button33.Location = new System.Drawing.Point(956, 531);
-            this.button33.Name = "button33";
-            this.button33.Size = new System.Drawing.Size(165, 76);
-            this.button33.TabIndex = 37;
-            this.button33.Text = "500";
-            this.button33.UseVisualStyleBackColor = false;
-            this.button33.Click += new System.EventHandler(this.Button33_Click);
+            this.Edo500.BackColor = System.Drawing.Color.Khaki;
+            this.Edo500.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Edo500.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Edo500.Location = new System.Drawing.Point(956, 531);
+            this.Edo500.Name = "Edo500";
+            this.Edo500.Size = new System.Drawing.Size(165, 76);
+            this.Edo500.TabIndex = 37;
+            this.Edo500.Text = "500";
+            this.Edo500.UseVisualStyleBackColor = false;
+            this.Edo500.Click += new System.EventHandler(this.Button33_Click);
             // 
-            // button34
+            // Edo300
             // 
-            this.button34.BackColor = System.Drawing.Color.Khaki;
-            this.button34.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button34.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button34.Location = new System.Drawing.Point(956, 402);
-            this.button34.Name = "button34";
-            this.button34.Size = new System.Drawing.Size(165, 76);
-            this.button34.TabIndex = 36;
-            this.button34.Text = "300";
-            this.button34.UseVisualStyleBackColor = false;
-            this.button34.Click += new System.EventHandler(this.Button34_Click);
+            this.Edo300.BackColor = System.Drawing.Color.Khaki;
+            this.Edo300.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Edo300.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Edo300.Location = new System.Drawing.Point(956, 402);
+            this.Edo300.Name = "Edo300";
+            this.Edo300.Size = new System.Drawing.Size(165, 76);
+            this.Edo300.TabIndex = 36;
+            this.Edo300.Text = "300";
+            this.Edo300.UseVisualStyleBackColor = false;
+            this.Edo300.Click += new System.EventHandler(this.Button34_Click);
             // 
-            // button37
+            // Edo100
             // 
-            this.button37.BackColor = System.Drawing.Color.Khaki;
-            this.button37.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button37.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button37.Location = new System.Drawing.Point(956, 273);
-            this.button37.Name = "button37";
-            this.button37.Size = new System.Drawing.Size(165, 76);
-            this.button37.TabIndex = 33;
-            this.button37.Text = "100";
-            this.button37.UseVisualStyleBackColor = false;
-            this.button37.Click += new System.EventHandler(this.Button37_Click);
+            this.Edo100.BackColor = System.Drawing.Color.Khaki;
+            this.Edo100.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Edo100.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Edo100.Location = new System.Drawing.Point(956, 273);
+            this.Edo100.Name = "Edo100";
+            this.Edo100.Size = new System.Drawing.Size(165, 76);
+            this.Edo100.TabIndex = 33;
+            this.Edo100.Text = "100";
+            this.Edo100.UseVisualStyleBackColor = false;
+            this.Edo100.Click += new System.EventHandler(this.Button37_Click);
             // 
-            // button38
+            // Edo2_500
             // 
-            this.button38.BackColor = System.Drawing.Color.Khaki;
-            this.button38.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button38.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button38.Location = new System.Drawing.Point(1142, 531);
-            this.button38.Name = "button38";
-            this.button38.Size = new System.Drawing.Size(165, 76);
-            this.button38.TabIndex = 42;
-            this.button38.Text = "500";
-            this.button38.UseVisualStyleBackColor = false;
-            this.button38.Click += new System.EventHandler(this.Button38_Click);
+            this.Edo2_500.BackColor = System.Drawing.Color.Khaki;
+            this.Edo2_500.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Edo2_500.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Edo2_500.Location = new System.Drawing.Point(1142, 531);
+            this.Edo2_500.Name = "Edo2_500";
+            this.Edo2_500.Size = new System.Drawing.Size(165, 76);
+            this.Edo2_500.TabIndex = 42;
+            this.Edo2_500.Text = "500";
+            this.Edo2_500.UseVisualStyleBackColor = false;
+            this.Edo2_500.Click += new System.EventHandler(this.Button38_Click);
             // 
-            // button39
+            // Edo2_300
             // 
-            this.button39.BackColor = System.Drawing.Color.Khaki;
-            this.button39.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button39.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button39.Location = new System.Drawing.Point(1142, 402);
-            this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(165, 76);
-            this.button39.TabIndex = 41;
-            this.button39.Text = "300";
-            this.button39.UseVisualStyleBackColor = false;
-            this.button39.Click += new System.EventHandler(this.Button39_Click);
+            this.Edo2_300.BackColor = System.Drawing.Color.Khaki;
+            this.Edo2_300.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Edo2_300.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Edo2_300.Location = new System.Drawing.Point(1142, 402);
+            this.Edo2_300.Name = "Edo2_300";
+            this.Edo2_300.Size = new System.Drawing.Size(165, 76);
+            this.Edo2_300.TabIndex = 41;
+            this.Edo2_300.Text = "300";
+            this.Edo2_300.UseVisualStyleBackColor = false;
+            this.Edo2_300.Click += new System.EventHandler(this.Button39_Click);
             // 
-            // button42
+            // Edo2_100
             // 
-            this.button42.BackColor = System.Drawing.Color.Khaki;
-            this.button42.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button42.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button42.Location = new System.Drawing.Point(1142, 273);
-            this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(165, 76);
-            this.button42.TabIndex = 38;
-            this.button42.Text = "100";
-            this.button42.UseVisualStyleBackColor = false;
-            this.button42.Click += new System.EventHandler(this.Button42_Click);
+            this.Edo2_100.BackColor = System.Drawing.Color.Khaki;
+            this.Edo2_100.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Edo2_100.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Edo2_100.Location = new System.Drawing.Point(1142, 273);
+            this.Edo2_100.Name = "Edo2_100";
+            this.Edo2_100.Size = new System.Drawing.Size(165, 76);
+            this.Edo2_100.TabIndex = 38;
+            this.Edo2_100.Text = "100";
+            this.Edo2_100.UseVisualStyleBackColor = false;
+            this.Edo2_100.Click += new System.EventHandler(this.Button42_Click);
             // 
             // pictureBox3
             // 
@@ -437,25 +437,25 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1332, 652);
             this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.button38);
-            this.Controls.Add(this.button39);
-            this.Controls.Add(this.button42);
-            this.Controls.Add(this.button33);
-            this.Controls.Add(this.button34);
-            this.Controls.Add(this.button37);
+            this.Controls.Add(this.Edo2_500);
+            this.Controls.Add(this.Edo2_300);
+            this.Controls.Add(this.Edo2_100);
+            this.Controls.Add(this.Edo500);
+            this.Controls.Add(this.Edo300);
+            this.Controls.Add(this.Edo100);
             this.Controls.Add(this.button32);
             this.Controls.Add(this.button31);
             this.Controls.Add(this.button30);
             this.Controls.Add(this.button29);
             this.Controls.Add(this.button28);
-            this.Controls.Add(this.button27);
-            this.Controls.Add(this.button26);
+            this.Controls.Add(this.col2);
+            this.Controls.Add(this.col1);
             this.Controls.Add(this.MinC500);
             this.Controls.Add(this.L500);
             this.Controls.Add(this.NoL500);
-            this.Controls.Add(this.button24);
+            this.Controls.Add(this.Int500);
             this.Controls.Add(this.Interp500);
-            this.Controls.Add(this.button17);
+            this.Controls.Add(this.Int300);
             this.Controls.Add(this.MinC300);
             this.Controls.Add(this.L300);
             this.Controls.Add(this.NoL300);
@@ -484,25 +484,25 @@
         private System.Windows.Forms.Button NoL300;
         private System.Windows.Forms.Button L300;
         private System.Windows.Forms.Button MinC300;
-        private System.Windows.Forms.Button button17;
+        private System.Windows.Forms.Button Int300;
         private System.Windows.Forms.Button MinC500;
         private System.Windows.Forms.Button L500;
         private System.Windows.Forms.Button NoL500;
-        private System.Windows.Forms.Button button24;
+        private System.Windows.Forms.Button Int500;
         private System.Windows.Forms.Button Interp500;
-        private System.Windows.Forms.Button button26;
-        private System.Windows.Forms.Button button27;
+        private System.Windows.Forms.Button col1;
+        private System.Windows.Forms.Button col2;
         private System.Windows.Forms.Button button28;
         private System.Windows.Forms.Button button29;
         private System.Windows.Forms.Button button30;
         private System.Windows.Forms.Button button31;
         private System.Windows.Forms.Button button32;
-        private System.Windows.Forms.Button button33;
-        private System.Windows.Forms.Button button34;
-        private System.Windows.Forms.Button button37;
-        private System.Windows.Forms.Button button38;
-        private System.Windows.Forms.Button button39;
-        private System.Windows.Forms.Button button42;
+        private System.Windows.Forms.Button Edo500;
+        private System.Windows.Forms.Button Edo300;
+        private System.Windows.Forms.Button Edo100;
+        private System.Windows.Forms.Button Edo2_500;
+        private System.Windows.Forms.Button Edo2_300;
+        private System.Windows.Forms.Button Edo2_100;
         private System.Windows.Forms.PictureBox pictureBox3;
     }
 }
