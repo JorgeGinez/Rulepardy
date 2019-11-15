@@ -15,6 +15,7 @@ namespace Proyecto_MétodosNum
         public MenuPrincipal(int columna=1)
         {
             InitializeComponent();
+            //Inicializa los objetos
             String nomColumna = "col" + columna.ToString();
             switch (nomColumna)
             {

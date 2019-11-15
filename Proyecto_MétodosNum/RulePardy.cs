@@ -24,8 +24,8 @@ namespace Proyecto_MétodosNum
 
         private void PictureBox4_Click(object sender, EventArgs e)
         {
-            Form menu = new MenuPrincipal(6);
-            menu.Show();
+            Form ruleta = new Ruleta();
+            ruleta.Show();
             this.Hide();
         }
     }
